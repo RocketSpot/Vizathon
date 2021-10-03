@@ -1,0 +1,37 @@
+{
+  "name": "aapi-dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^1.6.5",
+    "@emotion/react": "^11.4.0",
+    "@emotion/styled": "^11.3.0",
+    "chart.js": "^3.5.0",
+    "d3": "^7.0.0",
+    "framer-motion": "^4.1.17",
+    "mapbox-gl": "^1.13.1",
+    "next": "11.0.1",
+    "react": "17.0.2",
+    "react-chartjs-2": "^3.0.4",
+    "react-chrono": "^1.10.1",
+    "react-dom": "17.0.2",
+    "react-mapbox-gl": "^5.1.1",
+    "react-papaparse": "^3.17.0",
+    "react-tagcloud": "^2.1.1",
+    "react-wordcloud": "^1.2.7",
+    "recharts": "^2.0.10"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.15",
+    "eslint": "^7.31.0",
+    "eslint-config-next": "11.0.1",
+    "prettier": "^2.3.2",
+    "typescript": "^4.3.5"
+  }
+}
