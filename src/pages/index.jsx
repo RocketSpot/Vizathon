@@ -19,8 +19,6 @@ export default function Home() {
 			<Hero />
 			<Container py={20} bgColor="black" align="center" justify="center">
 				<VStack maxW="1280px">
-			<Container py={20} bgColor="black" align="center" justify="center">
-				<VStack maxW="1280px">
 					<Flex justify="center" flexWrap="wrap">
 						<Box align="center" justify="center">
 							<Mapbox />
