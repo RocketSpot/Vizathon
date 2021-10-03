@@ -21,12 +21,6 @@ export default function Home() {
 				<VStack maxW="1280px">
 					<Flex justify="center" flexWrap="wrap">
 						<Box align="center" justify="center">
-							
-			<Hero />
-			<Container py={20} bgColor="black" align="center" justify="center">
-				<VStack maxW="1280px">
-					<Flex justify="center" flexWrap="wrap">
-						<Box align="center" justify="center">
 							<Mapbox />
 						</Box>
 						<Divider my={20} />
